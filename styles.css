@@ -1,0 +1,40 @@
+body {
+    background-color: #f2f2f2;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+h1, h2 {
+    color: #2c3e50;
+}
+
+.avatar {
+    display: block;
+    margin: 20px auto;
+    width: 150px;
+    border-radius: 50%;
+}
+
+ul {
+    list-style-type: circle;
+    padding-left: 20px;
+}
+
+footer {
+    margin-top: 40px;
+    font-size: 0.9em;
+    color: #888;
+    text-align: center;
+}
+
